@@ -7,7 +7,7 @@
 module load anaconda
 source activate Gilbert-work
 
-index="/work/users/g/g/ggiri/GENOME/Human_ERCC/RSEM/hg38"
+index="/work/users/g/g/ggiri/GENOME/Human/RSEM/hg38"
 fastqdir="/work/users/g/g/ggiri/PCBP1/RIP_C2BBe1/Data"
 outdir="/work/users/g/g/ggiri/PCBP1/RIP_C2BBe1/RSEM"
 file=$1
